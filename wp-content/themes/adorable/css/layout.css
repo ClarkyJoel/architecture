@@ -1,0 +1,26 @@
+.col1,.col2,.col3,.col4,.col5{
+position: relative;
+display: inline-block;
+margin: 0 auto;
+float: left;
+}
+.container {
+margin-left: auto;
+margin-right: auto;
+width: 660px;
+}
+.col1{
+width: 660px;
+}
+.col2{
+width: 275px;
+}
+.col3{
+width: 619px;
+}
+.col4{
+width: 216px;
+}
+.col5{
+width: 379px;
+}

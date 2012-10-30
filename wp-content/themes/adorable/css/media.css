@@ -1,0 +1,170 @@
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	body, html {min-width:748px;}
+	#content {width:748px;}
+	#leftPanel {width: 220px;}
+	#contentHolder, #contentHolder1 {width:528px; left:220px;}
+	#contentHolder > ul, #contentHolder1 > ul, .container, #homepage {width:528px;}
+	.col3 {width:488px;}
+	.home-slider .slides { width:528px;	height:264px;}
+	.home-slider .slides_container div.slide {	width:528px; }
+	.home-slider .slides_container div.slide img { width:528px;	height:264px; }
+	.home-slider 	.caption { width:370px;  }
+	.slogan {width:528px;}
+	.portfolio-items {margin-left:-20px;}
+	.folio-item {margin-left:50px;}
+	.singlePortfImg {width:478px;}
+	.postBlogTemplate {margin-left:120px;}
+	.single-post-item, .singleTextContent {width:488px;}
+	.singleBlogImg  {width:478px;}
+	#comments textarea {width:476px;}
+	.blog-slider .slides {width:478px; }
+	.blog-slider .slides_container div.slide { width:478px; }
+	.portfolio-slider .slides {width:478px; }
+	.portfolio-slider .slides_container div.slide { width:478px; }
+	.contact-address {width:100%;}
+	.contact-form {width:300px; margin-left:0; margin-top:20px;}
+	
+}
+
+@media only screen and (max-width: 767px) {
+	body, html {min-width:460px;  height:1500px;}
+	#content {width:460px;}
+	#leftPanel {width: 460px; position:relative; height:auto;}
+	#contentHolder, #contentHolder1 {width:460px !important; left:0px; position:relative;}
+	#contentHolder > ul, #contentHolder1 > ul, .container, #homepage {width:460px; }
+	.col3 {width:420px;}
+	.col640width{width:430px;}
+	.col1{width:460px;}
+	/*.menu select { display: block; 	background-color:#fffcf9;}
+	#menu{display:none; }
+	*/
+	#menu{padding-top:0px; }
+	.home-slider .slides { width:460px;	height:230px;}
+	.home-slider .slides_container div.slide {	width:460px; }
+	.home-slider .slides_container div.slide img { width:460px;	height:230px; }
+	.home-slider 	.caption { width:460px;  }
+	.home-slider 	.next, .home-slider  .prev { width:30px; height:30px; 	top:24px; }
+	.home-slider 	.next { 		background:url(../images/button-next-50.png) 0 0 no-repeat; right:25px;	}
+	.home-slider 	.prev { 		background:url(../images/button-prev-50.png) 0 0 no-repeat; 	right:60px;	}
+	.home-slider 	.next:hover, .home-slider  .prev:hover { background-position:0 -30px; }
+	.slogan {width:450px; left:0; right:0; padding:5px 5px 5px 5px}
+	.portfolio-items {margin-left:-10px;}
+	.folio-item {margin-left:20px;}
+	.singlePortfImg {width:410px;}
+	.postBlogTemplate {margin-left:100px;}
+	
+	#pageSingleBlog {position:relative;}
+	.single-post-item, .singleTextContent {width:420px;}
+	.singleBlogImg  {width:410px;}
+	#comments textarea {width:408px;}
+	.blog-slider .slides {width:410px; }
+	.blog-slider .slides_container div.slide { width:410px; }
+	.portfolio-slider .slides {width:410px; }
+	.portfolio-slider .slides_container div.slide { width:410px; }
+	.contact-address {width:100%;}
+	.contact-form {width:300px; margin-left:0; margin-top:20px;}
+	
+	header {height:auto;}
+	.logoWrapper {margin-top:30px; margin-bottom:20px;}
+	
+	#footer {position:relative; bottom:0; margin-top:20px; }
+	
+	.one_half { width: 420px; }
+	.one_third { width: 420px; }
+	.two_third { width: 420px; }
+	.one_fourth { width: 420px; }
+	.three_fourth { width: 420px; }
+	.one_fifth { width: 420px; }
+	.two_fifth { width: 420px; }
+	.three_fifth { width: 420px; }
+	.four_fifth { width: 420px; }
+
+	.one_half,
+	.one_third,
+	.two_third,
+	.three_fourth,
+	.one_fourth,
+	.one_fifth,
+	.two_fifth,
+	.three_fifth,
+	.four_fifth {
+		margin-right: 0;
+	}
+	
+}
+
+
+@media only screen and (max-width: 479px) {
+	body, html {min-width:320px; height:1500px;}
+	#content {width:320px;}
+	#leftPanel {width: 320px; position:relative; height:auto;}
+	#contentHolder, #contentHolder1 {width:320px !important; left:0px; position:relative; }
+	#contentHolder > ul, #contentHolder1 > ul, .container, #homepage {width:320px; }
+	.col3 {width:280px;}
+	.col640width{width:290px;}
+	.col1{width:320px;}
+	/*
+	.menu select { width:320px; display: block; 	background-color:#fffcf9;}
+	#menu{display:none; }	
+	*/
+	#menu{padding-top:0px; }
+	.home-slider .slides { width:320px;	height:160px;}
+	.home-slider .slides_container div.slide {	width:320px; }
+	.home-slider .slides_container div.slide img { width:320px;	height:160px; }
+	.home-slider 	.caption { width:320px; height:auto;  }
+	.home-slider .text1 { font-size: 16px;}
+	.home-slider 	.text2 {	font:12px/14px Georgia, "Times New Roman", Times, serif;}
+	.home-slider 	.next, .home-slider  .prev { width:30px; height:30px; 	top:24px; }
+	.home-slider 	.next { 		background:url(../images/button-next-50.png) 0 0 no-repeat; right:25px;	}
+	.home-slider 	.prev { 		background:url(../images/button-prev-50.png) 0 0 no-repeat; 	right:60px;	}
+	.home-slider 	.next:hover, .home-slider  .prev:hover { background-position:0 -30px; }
+	.slogan {width:310px; left:0; right:0; padding:5px 5px 5px 5px}
+	.portfolio-items {margin-left:-10px;}
+	.folio-item {margin-left:50px;}
+	.singlePortfImg {width:270px;}
+	.postBlogTemplate {margin-left:40px;}
+	.circle1 {display:none;}
+	.postBlogTemplate img {width:270px;}
+	
+	#pageSingleBlog {position:relative;}
+	.single-post-item, .singleTextContent {width:280px;}
+	.singleBlogImg  {width:270px;}
+	#comments textarea {width:268px;}
+	.blog-slider .slides {width:270px; }
+	.blog-slider .slides_container div.slide { width:270px; }
+	.portfolio-slider .slides {width:270px; }
+	.portfolio-slider .slides_container div.slide { width:270px; }
+	.contact-address {width:100%;}
+	.contact-form {width:300px; margin-left:0; margin-top:20px;}
+	
+	header {height:auto;}
+	.logoWrapper {margin-top:30px; margin-bottom:20px;}
+	
+	#footer {position:relative; bottom:0; margin-top:20px; }
+	
+	.one_half { width: 280px; }
+	.one_third { width: 280px; }
+	.two_third { width: 280px; }
+	.one_fourth { width: 280px; }
+	.three_fourth { width: 280px; }
+	.one_fifth { width: 280px; }
+	.two_fifth { width: 280px; }
+	.three_fifth { width: 280px; }
+	.four_fifth { width: 280px; }
+
+	.one_half,
+	.one_third,
+	.two_third,
+	.three_fourth,
+	.one_fourth,
+	.one_fifth,
+	.two_fifth,
+	.three_fifth,
+	.four_fifth {
+		margin-right: 0;
+	}
+	
+	.contact-form { width:280px;	}
+	#contact-form1 textarea {width:268px;}
+	
+}

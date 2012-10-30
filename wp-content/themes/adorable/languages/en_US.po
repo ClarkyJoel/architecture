@@ -1,0 +1,1751 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Goran <goran.freshmaker@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.5.3\n"
+
+#. Text in function
+#: functions/custom-page.php:86
+msgid " Include category? (for portfolio pages only)"
+msgstr ""
+
+#. Text in function
+#: functions/custom-page.php:86
+msgid " Insert link of the external page "
+msgstr ""
+
+#. Text in function
+#: functions/custom-page.php:86
+msgid " Page Template"
+msgstr ""
+
+#. Text in function
+#: functions/custom-page.php:86
+msgid " Page Title"
+msgstr ""
+
+#. Text in function
+#: functions/custom-post.php:78
+msgid " Post type:"
+msgstr ""
+
+#. Text in function
+#: functions/custom-slider.php:93
+msgid " Show caption on slide."
+msgstr ""
+
+#. Text in function
+#: functions/custom-page.php:86
+msgid " Show filter? (for portfolio pages only)"
+msgstr ""
+
+#. Text in function
+#: functions/custom-page.php:86
+msgid " Show page in menu?"
+msgstr ""
+
+#. Text in function
+#: functions/custom-portfolio.php:137
+msgid " Type"
+msgstr ""
+
+#. Text in function
+#: functions/custom-slider.php:176 functions/custom-portfolio.php:237
+msgid " Type:"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Add Column"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Add List Item"
+msgstr ""
+
+#. Text in function
+#: functions/custom-portfolio.php:137
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#. Text in function
+#: functions/custom-slider.php:93
+msgid "Add New Slide Item"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Add Team Member"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Add the button\\'s text"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Add the button\\'s url"
+msgstr ""
+
+#. Text in function
+#: admin/admin-interface.php:455
+msgid "All Categories"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Background Image"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Background Settings"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Before content"
+msgstr ""
+
+#. Text in function
+#: functions/custom-page.php:86
+msgid "Blog"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Button Code Color"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Button URL"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Button color"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Button\\'s Size"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Button\\'s Text"
+msgstr ""
+
+#. Text in echo
+#: comments.php:3
+msgid "COMMENTS"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Center"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Check this to display slider on the homepage."
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Check this to make theme responsive."
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Choose the main template color."
+msgstr ""
+
+#. Text in function
+#: functions/custom-post.php:78
+msgid "Choose the type of the post."
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Column Content"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Columns content"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Columns icon"
+msgstr ""
+
+#. Text in echo
+#: single.php:96
+msgid "Comments"
+msgstr ""
+
+#. Text in echo
+#: comments.php:22
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: functions/custom-page.php:86
+msgid "Contact"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Contact Form Email Address"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Contact Form Title"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Contact Page"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Content Area Background Color"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Content Area Background Image"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Content Area Background Options/Positions"
+msgstr ""
+
+#. Text in function
+#: functions/custom-portfolio.php:137
+msgid "Description Page"
+msgstr ""
+
+#. Text in function
+#: functions.php:303
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: functions/custom-portfolio.php:137
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#. Text in function
+#: functions/custom-slider.php:93
+msgid "Edit Slide Item"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Email not valid message"
+msgstr ""
+
+#. Text in function
+#: functions/custom-portfolio.php:137
+msgid "Enter just the embedded link of the video for the gallery."
+msgstr ""
+
+#. Text in function
+#: functions/custom-portfolio.php:137
+msgid "Enter the embedded code of the portfolio."
+msgstr ""
+
+#. Text in function
+#: functions/custom-post.php:78
+msgid "Enter the embedded code of the post."
+msgstr ""
+
+#. Text in function
+#: functions/custom-page.php:86
+msgid "Enter the link only if you want to inclide the external page."
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Favicon"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Field one prevalue"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Field two prevalue"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Font Settings"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Four Fifth"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Four Fifth Last"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "General Settings"
+msgstr ""
+
+#. Text in function
+#: functions/custom-post.php:78
+msgid "General post options"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "H1 font color"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "H1 font family"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "H1 font shadow"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "H1 font size"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "H1 font url"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "H1 seconddary font color"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "H2 font color"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "H2 font family"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "H2 font shadow"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "H2 font size"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "H2 font url"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "H3 font color"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "H3 font family"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "H3 font shadow"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "H3 font size"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "H3 font url"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "H4 font color"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "H4 font family"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "H4 font shadow"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "H4 font size"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "H4 font url"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "H5 font color"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "H5 font family"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "H5 font shadow"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "H5 font size"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "H5 font url"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Heading"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Heading Type"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Heading content"
+msgstr ""
+
+#. Text in function
+#: functions/custom-page.php:86
+msgid "Home"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Home Settings"
+msgstr ""
+
+#. Text in function
+#: functions/custom-portfolio.php:137 functions/custom-post.php:78
+msgid "Image"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Image Url"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Input before content.(optional for H1 only)"
+msgstr ""
+
+#. Text in function
+#: functions/custom-page.php:86
+msgid "Input categories."
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Input columns content."
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Input heading content."
+msgstr ""
+
+#. Text in function
+#: functions/custom-page.php:86
+msgid ""
+"Input page title if(OPTIONAL) you want it to be different than the main "
+"title of the page. You can use :: to seperate the left and right title side"
+"(they are different colors)."
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Input the single blog title."
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Input the text for Ream more button on blog template."
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Insert Button Shortcode"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Insert Columns Shortcode"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Insert Heading Shortcode"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Insert Image Shortcode"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Insert Latest Portfolio Item Shortcode"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Insert List Shortcode"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert Longitude"
+msgstr ""
+
+#. Text in echo
+#: tinymce/popup.php:37
+msgid "Insert Shortcode"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Insert Team Shortcode"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Insert Video Shortcode"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert background options/positions"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Insert column content."
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Insert columns title"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Insert columns with icon"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert content for left area."
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert email address where emails will be send"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font color for H1"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font color for H1 span"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font color for H2"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font color for H3"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font color for H4"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font color for H5"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font color for Portfolio filter"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font color for Portfolio titles"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font color for list"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font color for menu"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font color for submenu"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font color for text"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font family for H1"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font family for H2"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font family for H3"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font family for H4"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font family for H5"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font family for Portfolio filter"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font family for Portfolio titles"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font family for list"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font family for menu"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font family for submenu"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font family for text"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font hover/active color for Portfolio filter"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font hover/active color for Portfolio titles"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font shadow for H1"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font shadow for H2"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font shadow for H3"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font shadow for H4"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font shadow for H5"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font shadow for Portfolio filter"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font shadow for Portfolio titles"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font shadow for list"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font shadow for menu"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font shadow for submenu"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font shadow for text"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font size for H1"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font size for H2"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font size for H3"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font size for H4"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font size for H5"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font size for Portfolio filter"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font size for Portfolio titles"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font size for list"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font size for menu"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font size for submenu"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font size for text"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font url for H1"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font url for H2"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font url for H3"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font url for H4"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font url for H5"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font url for Portfolio filter"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font url for Portfolio titles"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font url for list"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font url for menu"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font url for submenu"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert font url for text"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert hover/active font color for menu"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Insert icon url for the column."
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert left area background options/positions"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert main text for slogan"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert message for invalid email."
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert message for required field."
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert prevalue for the first field."
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert prevalue for the second field."
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert prevalue for the textarea."
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Insert read more text."
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert secondary text for slogan"
+msgstr ""
+
+#. Text in function
+#: functions/custom-slider.php:93
+msgid "Insert slide URL(optional)."
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert text for successful message send. You can use HTML."
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert text for the send button."
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert the Latitude"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid ""
+"Insert the code for the button color. If inserted the selection above(Button "
+"color) will be overwritten."
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Insert the list icon url."
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Insert the list item content."
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Insert the team member image."
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Insert the team member name."
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Insert the team member position."
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Insert title for the contact form"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Insert url for read more."
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Inupt the Id of the video."
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Inupt the image url."
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Inupt the number of altest portfolios you want to display."
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Inupt the title for the columns."
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Left"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Left Area Background Color"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Left Area Background Image"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Left Area Background Options/Positions"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Left area content"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "List Icon URL"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "List Item Content"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "List font color"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "List font family"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "List font shadow"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "List font size"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "List font url"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Logo"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Main template color"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Make theme responsive?"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Map Lat"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Map Lng"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Menu Active Background Color"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Menu Hover Background Color"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Menu font color"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Menu font family"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Menu font shadow"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Menu font size"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Menu font url"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Menu hover/active font color"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Message send "
+msgstr ""
+
+#. Text in function
+#: functions/custom-portfolio.php:137
+msgid "New Portfolio Item"
+msgstr ""
+
+#. Text in function
+#: functions/custom-slider.php:93
+msgid "New Slide Item"
+msgstr ""
+
+#. Text in function
+#: functions/custom-slider.php:93 functions/custom-page.php:86
+msgid "No"
+msgstr ""
+
+#. Text in function
+#: admin/admin-interface.php:455
+msgid "No Categories"
+msgstr ""
+
+#. Text in echo
+#: index.php:16
+msgid "Not Found"
+msgstr ""
+
+#. Text in function
+#: functions/custom-slider.php:93 functions/custom-portfolio.php:137
+msgid "Nothing found"
+msgstr ""
+
+#. Text in function
+#: functions/custom-slider.php:93 functions/custom-portfolio.php:137
+msgid "Nothing found in Trash"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Number of latest portfolio items"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "One Fifth"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "One Fifth Last"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "One Fourth"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "One Fourth Last"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "One Half"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "One Half Last"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "One Third"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "One Third Last"
+msgstr ""
+
+#. Text in function
+#: functions/custom-portfolio.php:137
+msgid "Opening Type"
+msgstr ""
+
+#. Text in function
+#: functions/custom-page.php:86
+msgid "Page options"
+msgstr ""
+
+#. Text in function
+#: functions/custom-portfolio.php:137
+msgid "PopUp"
+msgstr ""
+
+#. Text in function
+#: functions/custom-page.php:86
+msgid "Portfolio"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Portfolio filter font color"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Portfolio filter font family"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Portfolio filter font shadow"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Portfolio filter font size"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Portfolio filter font url"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Portfolio filter hover/active font color"
+msgstr ""
+
+#. Text in function
+#: functions/custom-portfolio.php:137
+msgid "Portfolio options"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Portfolio titles font color"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Portfolio titles font family"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Portfolio titles font shadow"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Portfolio titles font size"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Portfolio titles font url"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Portfolio titles hover/active font color"
+msgstr ""
+
+#. Text in function
+#: functions/custom-portfolio.php:137
+msgid "Portfolio video options"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Portfolio/Blog Settings"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Read More &rarr;"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Read more blog button text"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Read more text"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Read more url"
+msgstr ""
+
+#. Text in function
+#: functions.php:316
+msgid "Reply"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Required field message"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Right"
+msgstr ""
+
+#. Text in function
+#: functions/custom-portfolio.php:137
+msgid "Search Portfolio"
+msgstr ""
+
+#. Text in function
+#: functions/custom-slider.php:93
+msgid "Search Slide"
+msgstr ""
+
+#. Text in function
+#: functions/custom-slider.php:93
+msgid "Select \"Yes\" if you want the caption to be added on the slide"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Select a number:"
+msgstr ""
+
+#. Text in function
+#: functions/custom-portfolio.php:137
+msgid "Select how you want the portfolio to open."
+msgstr ""
+
+#. Text in function
+#: functions/custom-page.php:86
+msgid "Select page template."
+msgstr ""
+
+#. Text in function
+#: functions/custom-portfolio.php:137
+msgid "Select portfolio type."
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Select the background color for the active menu item."
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Select the background color for the content area."
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Select the background color for the hover menu item."
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Select the background color for the hover submenu item."
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Select the background color for the left area."
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Select the button color."
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Select the button\\'s size"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Select the heading type."
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Select the type, which present the width of the column."
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Select the video type."
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Send button text"
+msgstr ""
+
+#. Text in echo
+#: tinymce/popup.php:52
+msgid "Shortcode Preview"
+msgstr ""
+
+#. Text in echo
+#: tinymce/popup.php:57
+msgid "Shortcode has no preview"
+msgstr ""
+
+#. Text in function
+#: functions/custom-page.php:86
+msgid "Show filter?"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Show slider on homepage?"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Single blog page title"
+msgstr ""
+
+#. Text in function
+#: functions/custom-page.php:86
+msgid "Sleect if you want the page to appear in the menu!"
+msgstr ""
+
+#. Text in function
+#: functions/custom-slider.php:93
+msgid "Slide URL"
+msgstr ""
+
+#. Text in function
+#: functions/custom-slider.php:93
+msgid "Slider options"
+msgstr ""
+
+#. Text in function
+#: functions/custom-portfolio.php:137 functions/custom-post.php:78
+msgid "Slideshow"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Slogan main text"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Slogan secondary text"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Submenu Hover Background Color"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Submenu font color"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Submenu font family"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Submenu font shadow"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Submenu font size"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Submenu font url"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Team member image"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Team member name"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Team member position"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Text font color"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Text font family"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Text font shadow"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Text font size"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Text font url"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Textarea prevalue"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "The Image"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "The Post"
+msgstr ""
+
+#. Text in echo
+#: admin/admin-interface.php:107
+msgid "Theme Options"
+msgstr "Theme Options "
+
+#. Text in echo
+#: admin/admin-interface.php:98
+msgid "Theme Options Changes Saved"
+msgstr ""
+
+#. Text in echo
+#: admin/admin-interface.php:101
+msgid "Theme Options Reset"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Three Fifth"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Three Fifth Last"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Three Fourth"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Three Fourth Last"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Two Fifth"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Two Fifth Last"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Two Thirds"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Two Thirds Last"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Type of the Column"
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Upload a favicon for your theme."
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Upload a logo for your theme."
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Upload an image for the background."
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Upload an image for the content area background."
+msgstr ""
+
+#. Text in function
+#: functions/theme-options.php:1
+msgid "Upload an image for the left area background."
+msgstr ""
+
+#. Text in function
+#: functions/custom-portfolio.php:137 functions/custom-post.php:78
+msgid "Video"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Video ID"
+msgstr ""
+
+#. Text in function
+#: tinymce/config.php:1
+msgid "Video Type"
+msgstr ""
+
+#. Text in function
+#: functions/custom-portfolio.php:137
+msgid "Video URL(embed link):"
+msgstr ""
+
+#. Text in function
+#: functions/custom-portfolio.php:137
+msgid "Video URL(iframe):"
+msgstr ""
+
+#. Text in function
+#: functions/custom-post.php:78
+msgid "Video URL:"
+msgstr ""
+
+#. Text in function
+#: functions/custom-portfolio.php:137
+msgid "View Portfolio Item"
+msgstr ""
+
+#. Text in function
+#: functions/custom-slider.php:93
+msgid "View Slide Item"
+msgstr ""
+
+#. Text in echo
+#: single.php:94
+msgid "Views"
+msgstr ""
+
+#. Text in function
+#: functions/custom-slider.php:93 functions/custom-page.php:86
+msgid "Yes"
+msgstr ""
+
+#. Text in echo
+#: functions.php:307
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in echo
+#: single.php:100
+msgid "by"
+msgstr ""
+
+#. Text in echo
+#: single.php:98
+msgid "in"
+msgstr ""
