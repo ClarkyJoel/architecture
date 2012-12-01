@@ -298,7 +298,7 @@ width:100%;
 /*start menu*/
 #menu li.with_ul ul.submenu li a {
 	color:#434343 !important;
-	font-size:10px;
+	font-size: 14px;
 	background-color: transparent !important;
 	padding: 1px 3px 3px 3px;	
 	text-shadow: none !important;
